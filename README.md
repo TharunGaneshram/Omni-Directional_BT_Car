@@ -36,4 +36,4 @@ This project involves the development of a car with one powered pivot wheel and 
  - First 3 digits: Speed from 0 to 100
  - Second 3 digits: Direction from 0 to 359 degrees
  - (ex: 099200 -> speed = -0.99, direction = 20 degrees)
-4. The STM32 will interpret these commands to control the speed and direction of the car.
+3. The STM32 will interpret these commands to control the speed and direction of the car.
